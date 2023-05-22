@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383677538763",
+    "firebase_url": "https://chatsapp-2a374-default-rtdb.firebaseio.com",
+    "project_id": "chatsapp-2a374",
+    "storage_bucket": "chatsapp-2a374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383677538763:android:78ceecedd98817a7a5d64e",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383677538763-8iu0jnd7fbbheo6lpt0q8sfr5edadaeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABrqg_fasN_9VnQL4b6ieccfNQX1vThUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383677538763-8iu0jnd7fbbheo6lpt0q8sfr5edadaeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
